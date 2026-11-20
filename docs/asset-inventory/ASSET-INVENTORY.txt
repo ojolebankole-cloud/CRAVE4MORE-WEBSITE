@@ -1,0 +1,34 @@
+CRAVE4MORE â€” 3D ASSET INVENTORY
+Developer: Koledev
+================================
+
+FILE | SIZE
+public/assets/images/Cheese Macaronis - 1280x646.png | 706043 bytes
+public/assets/images/Pancakes - 1280x670.png | 1026329 bytes
+public/assets/images/real-aglio-e-olio-pasta-food-cutout-png.png | 6549433 bytes
+public/assets/images/real-omurice-food-cutout-png.png | 11845619 bytes
+public/assets/images/ÔÇöPngtreeÔÇöburger food png free download_13329458.png | 15264078 bytes
+public/assets/images/ÔÇöPngtreeÔÇöindian street food pani puri_20349512.png | 6177092 bytes
+public/assets/models/POS Payment System 01.glb | 824820 bytes
+public/assets/models/bakery_products_collection.glb | 23600856 bytes
+public/assets/models/cake.glb | 19578184 bytes
+public/assets/models/chocolate_marshmallow_cupcake.glb | 15918924 bytes
+public/assets/models/chocolate_tart.glb | 3585300 bytes
+public/assets/models/coffee_cart.glb | 5187944 bytes
+public/assets/models/compostable_burger_takeaway_Package.glb | 6184980 bytes
+public/assets/models/cookies_serves.glb | 22583028 bytes
+public/assets/models/dinner-plate-27-cm-white-porcelain_displaying_foods.glb | 91424 bytes
+public/assets/models/fast_food.glb | 16799056 bytes
+public/assets/models/multiple_burger_paper_packagebag.glb | 2327608 bytes
+public/assets/models/orders_packagebag.glb | 2618612 bytes
+public/assets/models/pizza.glb | 7208336 bytes
+public/assets/models/shopping_cart.glb | 79472 bytes
+public/assets/models/snacks_paper_packagebag.glb | 23317188 bytes
+public/assets/models/spoon_and_chopsticks.glb | 765540 bytes
+public/assets/textures/Metal_Corrogated_Shiny_0.jpeg | 3533 bytes
+public/assets/textures/Square Card Reader_6.jpeg | 21719 bytes
+public/assets/textures/black-button_2.png | 537 bytes
+public/assets/textures/black-button_3.png | 105 bytes
+public/assets/textures/iPad_Air_back_1.jpeg | 367977 bytes
+public/assets/textures/iPad_screen_4.jpeg | 189427 bytes
+public/assets/textures/square.01(1)_5.jpeg | 85720 bytes
