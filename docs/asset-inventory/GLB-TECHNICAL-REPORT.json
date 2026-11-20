@@ -1,0 +1,373 @@
+[
+  {
+    "file": "POS Payment System 01.glb",
+    "size_MB": 0.79,
+    "meshes": 16,
+    "primitives": 28,
+    "vertices": 17153,
+    "estimated_triangles": 13234,
+    "materials": [
+      "[0137_Black]1",
+      "[Color_004]",
+      "[Color_008]",
+      "[Color_D01]1",
+      "[Color_A11]",
+      "[Color_G16]",
+      "[Color_002]",
+      "[Color_009]",
+      "[0098_DodgerBlue]",
+      "[Color_008]1",
+      "[Metal_Corrogated_Shiny]2",
+      "PDM_iPad_Air_back",
+      "PDM_iPad_Air_glass_front",
+      "PDM_iPad_Air_black_matte",
+      "PDM_iPad_Air_black",
+      "Material",
+      "PDM_iPad_Air_chrome",
+      "PDM_iPad_Air_screen",
+      "*",
+      "square.01",
+      "Square Card Reader"
+    ],
+    "textures": 7,
+    "images": 7,
+    "nodes": 27,
+    "dimensions_local_units": [
+      0.3676,
+      0.2084,
+      0.3834
+    ],
+    "animations": []
+  },
+  {
+    "file": "bakery_products_collection.glb",
+    "size_MB": 22.51,
+    "meshes": 10,
+    "primitives": 10,
+    "vertices": 28828,
+    "estimated_triangles": 28738,
+    "materials": [
+      "PoppySeedRoll",
+      "RyeBreadRoll",
+      "SunflowserBuns",
+      "bowl",
+      "bread",
+      "breadRoll",
+      "croissant",
+      "pretzel",
+      "saltBreadRoll",
+      "wholeGrainBread"
+    ],
+    "textures": 30,
+    "images": 30,
+    "nodes": 12,
+    "dimensions_local_units": [
+      0.4379,
+      0.4791,
+      0.1256
+    ],
+    "animations": []
+  },
+  {
+    "file": "cake.glb",
+    "size_MB": 18.67,
+    "meshes": 2,
+    "primitives": 2,
+    "vertices": 22511,
+    "estimated_triangles": 38736,
+    "materials": [
+      "material_1"
+    ],
+    "textures": 1,
+    "images": 1,
+    "nodes": 4,
+    "dimensions_local_units": [
+      0.0824,
+      0.0834,
+      0.0652
+    ],
+    "animations": []
+  },
+  {
+    "file": "chocolate_marshmallow_cupcake.glb",
+    "size_MB": 15.18,
+    "meshes": 6,
+    "primitives": 6,
+    "vertices": 103265,
+    "estimated_triangles": 163219,
+    "materials": [
+      "material_0",
+      "material_1",
+      "material_2"
+    ],
+    "textures": 3,
+    "images": 3,
+    "nodes": 8,
+    "dimensions_local_units": [
+      1.9149,
+      1.9963,
+      1.9334
+    ],
+    "animations": []
+  },
+  {
+    "file": "chocolate_tart.glb",
+    "size_MB": 3.42,
+    "meshes": 18,
+    "primitives": 18,
+    "vertices": 22792,
+    "estimated_triangles": 36980,
+    "materials": [
+      "chocolate_tart"
+    ],
+    "textures": 3,
+    "images": 3,
+    "nodes": 47,
+    "dimensions_local_units": [
+      2.1646,
+      3.1406,
+      2.3454
+    ],
+    "animations": []
+  },
+  {
+    "file": "coffee_cart.glb",
+    "size_MB": 4.95,
+    "meshes": 3,
+    "primitives": 3,
+    "vertices": 21859,
+    "estimated_triangles": 27659,
+    "materials": [
+      "cart",
+      "mugs",
+      "props"
+    ],
+    "textures": 9,
+    "images": 9,
+    "nodes": 9,
+    "dimensions_local_units": [
+      2.1676,
+      1.0733,
+      1.7177
+    ],
+    "animations": []
+  },
+  {
+    "file": "compostable_burger_takeaway_Package.glb",
+    "size_MB": 5.9,
+    "meshes": 1,
+    "primitives": 1,
+    "vertices": 63866,
+    "estimated_triangles": 121240,
+    "materials": [
+      "material_0"
+    ],
+    "textures": 3,
+    "images": 3,
+    "nodes": 3,
+    "dimensions_local_units": [
+      2.5106,
+      1.3284,
+      2.6122
+    ],
+    "animations": []
+  },
+  {
+    "file": "cookies_serves.glb",
+    "size_MB": 21.54,
+    "meshes": 8,
+    "primitives": 8,
+    "vertices": 190457,
+    "estimated_triangles": 375466,
+    "materials": [
+      "Straw",
+      "Glass",
+      "Milk",
+      "Cookie1",
+      "Cookie2",
+      "Cookie3",
+      "Plate",
+      "Cookie_Crumbs"
+    ],
+    "textures": 12,
+    "images": 12,
+    "nodes": 24,
+    "dimensions_local_units": [
+      24.7047,
+      16.3772,
+      32.3524
+    ],
+    "animations": []
+  },
+  {
+    "file": "dinner-plate-27-cm-white-porcelain_displaying_foods.glb",
+    "size_MB": 0.09,
+    "meshes": 1,
+    "primitives": 1,
+    "vertices": 1322,
+    "estimated_triangles": 1728,
+    "materials": [
+      "Porcelain, white glaze"
+    ],
+    "textures": 1,
+    "images": 1,
+    "nodes": 2,
+    "dimensions_local_units": [
+      0.2712,
+      0.0239,
+      0.2712
+    ],
+    "animations": []
+  },
+  {
+    "file": "fast_food.glb",
+    "size_MB": 16.02,
+    "meshes": 41,
+    "primitives": 41,
+    "vertices": 25080,
+    "estimated_triangles": 36209,
+    "materials": [
+      "mayonez",
+      "salat",
+      "ketchup",
+      "blude",
+      "Table",
+      "Shava",
+      "botl_opacity",
+      "botl_inside",
+      "botl_cap"
+    ],
+    "textures": 24,
+    "images": 24,
+    "nodes": 85,
+    "dimensions_local_units": [
+      2.9626,
+      2.9626,
+      1.4248
+    ],
+    "animations": []
+  },
+  {
+    "file": "multiple_burger_paper_packagebag.glb",
+    "size_MB": 2.22,
+    "meshes": 1,
+    "primitives": 1,
+    "vertices": 256,
+    "estimated_triangles": 332,
+    "materials": [
+      "Baked"
+    ],
+    "textures": 2,
+    "images": 2,
+    "nodes": 5,
+    "dimensions_local_units": [
+      0.4303,
+      0.4263,
+      0.359
+    ],
+    "animations": []
+  },
+  {
+    "file": "orders_packagebag.glb",
+    "size_MB": 2.5,
+    "meshes": 1,
+    "primitives": 1,
+    "vertices": 55,
+    "estimated_triangles": 40,
+    "materials": [
+      "Material.001"
+    ],
+    "textures": 3,
+    "images": 3,
+    "nodes": 5,
+    "dimensions_local_units": [
+      15.1522,
+      24.0,
+      8.0
+    ],
+    "animations": []
+  },
+  {
+    "file": "pizza.glb",
+    "size_MB": 6.87,
+    "meshes": 2,
+    "primitives": 2,
+    "vertices": 52168,
+    "estimated_triangles": 55336,
+    "materials": [
+      "Tarelka001__0",
+      "pizza"
+    ],
+    "textures": 4,
+    "images": 4,
+    "nodes": 7,
+    "dimensions_local_units": [
+      48.5872,
+      48.5872,
+      8.2842
+    ],
+    "animations": []
+  },
+  {
+    "file": "shopping_cart.glb",
+    "size_MB": 0.08,
+    "meshes": 3,
+    "primitives": 3,
+    "vertices": 1526,
+    "estimated_triangles": 2220,
+    "materials": [
+      "material",
+      "Griff",
+      "Chrome"
+    ],
+    "textures": 0,
+    "images": 0,
+    "nodes": 7,
+    "dimensions_local_units": [
+      0.0863,
+      0.1351,
+      0.1396
+    ],
+    "animations": []
+  },
+  {
+    "file": "snacks_paper_packagebag.glb",
+    "size_MB": 22.24,
+    "meshes": 1,
+    "primitives": 1,
+    "vertices": 16504,
+    "estimated_triangles": 30000,
+    "materials": [
+      "kava_low"
+    ],
+    "textures": 4,
+    "images": 4,
+    "nodes": 3,
+    "dimensions_local_units": [
+      8.1173,
+      22.4292,
+      15.3896
+    ],
+    "animations": []
+  },
+  {
+    "file": "spoon_and_chopsticks.glb",
+    "size_MB": 0.73,
+    "meshes": 1,
+    "primitives": 1,
+    "vertices": 255,
+    "estimated_triangles": 320,
+    "materials": [
+      "M__Spoon_and_Chopsticks"
+    ],
+    "textures": 3,
+    "images": 3,
+    "nodes": 5,
+    "dimensions_local_units": [
+      0.0883,
+      0.2011,
+      0.0151
+    ],
+    "animations": []
+  }
+]

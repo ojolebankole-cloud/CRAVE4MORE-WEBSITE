@@ -1,0 +1,18 @@
+:root {
+  color-scheme: light;
+  --ink: #171311;
+  --espresso: #241A16;
+  --bone: #F3EBDD;
+  --parchment: #E8DDCB;
+  --copper: #B65D3B;
+  --stone: #786D63;
+  --olive: #66705A;
+  --white: #FFFDF8;
+  --line-dark: rgba(36, 26, 22, 0.16);
+  --line-light: rgba(243, 235, 221, 0.18);
+  --font-display: "DM Serif Display", Georgia, serif;
+  --font-body: "Manrope", "Segoe UI", sans-serif;
+  --content-width: 1440px;
+  --page-gutter: clamp(22px, 5.2vw, 82px);
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}

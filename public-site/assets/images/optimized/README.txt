@@ -1,0 +1,1 @@
+Static product posters and menu images only after commercial-use licence, menu identity and quality checks. Preserve transparent cutouts when appropriate; export responsive AVIF/WebP variants with appropriate alpha and dimensions. Never copy original source images here unchanged.
